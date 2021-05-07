@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dot": "^1.1.1",
-    "grunt": "^1.0.1",
+    "grunt": "^1.3.0",
     "grunt-contrib-less": "^1.4.0",
     "mongodb": "^2.2.21",
     "redis": "^2.7.1",
